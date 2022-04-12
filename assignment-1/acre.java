@@ -15,7 +15,7 @@ public class acre{
         l = obj.nextInt();
         w = obj.nextInt();
 
-        acres = l * w;
+        acres = (l * w)/43560;
 
         System.out.println("Total acres is "+acres);
 
