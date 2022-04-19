@@ -1,7 +1,7 @@
 
 public class arrays {
 	public static void main (String args[]) {
-		int [] myNum = {10,20,30,40,50};
+		int [] myNum = {20,30,25,35,60,-16,100};
 		int sum=0;
 		double avg;
 		
