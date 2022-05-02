@@ -6,17 +6,18 @@ public class arr {
         
     
     int [] array1 = {12,45,67,23,54};
-    int [] sbig ={};
+    int sbig =0;
     int fbig = 0;
     int temp=0;
 
     for (int i=0;i<array1.length;i++){
         for (int j = i+1; j<array1.length;j++){
-        if(array1[i]>array[j]){
+        if(array1[i]>array1[j]){
        
         temp = array1[i];
         array1[i] = array1[j];
         array1[j]=temp; 
+        sbig = array1[j-1];
     
         }
     }
@@ -32,7 +33,7 @@ public class arr {
 
 
     System.out.println("First biggest array"); 
-    System.out.println(fbig);
+    System.out.println(sbig);
     
 }
 }
