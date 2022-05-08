@@ -1,4 +1,4 @@
-class Area{
+public class Area{
     Area(double r){ 
        double a=r*r*3.14;
        System.out.println(a);

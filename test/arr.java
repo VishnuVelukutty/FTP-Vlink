@@ -32,7 +32,7 @@ public class arr {
 
 
 
-    System.out.println("First biggest array"); 
+    System.out.println("Second biggest array"); 
     System.out.println(sbig);
     
 }

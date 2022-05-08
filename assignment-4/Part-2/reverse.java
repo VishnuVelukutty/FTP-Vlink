@@ -45,7 +45,7 @@ public class reverse {
 				// if 'word' is not palindrome then a
 				// add it to 'final_str'
 				if (!(isPalindrome(word)))
-					final_str += word + " * ";
+					final_str += word + " ";
 			
 				// reset
 				word = "";
@@ -59,7 +59,7 @@ public class reverse {
 	// Driver code
 	public static void main (String[] args)
 	{
-		String str = "Text contains malayalam and level words";
+		String str = "Bob has a radar plane";
 	System.out.print(removePalinWords(str));
 	}
 }
