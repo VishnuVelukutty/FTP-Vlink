@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<employees>
+	<employee>
+		<name id="KYZ1">Upendra Roul</name>
+		<position>Software Developer</position>
+		<joinyear>2010</joinyear>
+		<salary>6000</salary>
+		<department>ENG</department>
+	</employee>
+	<employee>
+		<name id="KYZ2">Jay Prakash</name>
+		<position>Testers</position>
+		<joinyear>2010</joinyear>
+		<salary>7000</salary>
+		<department>ENG</department>
+	</employee>
+	<employee>
+		<name id="KYZ3">Rekha Sharma</name>
+		<position>HR</position>
+		<joinyear>2005</joinyear>
+		<salary>7000</salary>
+		<department>HR</department>
+	</employee>
+	<employee>
+		<name id="KYZ4">Rohit S</name>
+		<position>House Keeping</position>
+		<joinyear>2001</joinyear>
+		<salary>3000</salary>
+		<department>HR</department>
+	</employee>
+</employees>

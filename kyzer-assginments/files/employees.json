@@ -1,0 +1,46 @@
+{
+	"employeesList" : [
+		{
+			"id" : "KYZ123",
+			"data" : {
+				"name":"Upendra Roul",
+				"position":"Software Developer",
+				"joinyear":"2010",
+				"salary":"6000",
+				"department":"ENG"
+			}
+		},
+		{
+			"id" : "KYZ456",
+			"data" : {
+				"name":"Jay Prakash",
+				"position":"Testers",
+				"joinyear":"2010",
+				"salary":"7000",
+				"department":"ENG"
+			}
+		},
+		{
+			"id" : "KYZ789",
+			"data" : {
+				"name":"Rekha Sharma",
+				"position":"HR",
+				"joinyear":"2005",
+				"salary":"7000",
+				"department":"HR"
+			}
+		},
+		{
+			"id" : "Kyz0123",
+			"data" : {
+				"name":"Rohit S",
+				"position":"House Keeping",
+				"joinyear":"2001",
+				"salary":"3000",
+				"department":"HR"
+			}
+		}
+	]
+
+}
+
